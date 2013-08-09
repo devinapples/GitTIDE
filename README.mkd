@@ -4,7 +4,7 @@ This following document details how to get Terminal IDE up and running on an And
 YMMV!
 
 Download the setupGITonTIDE.sh file from TIDE:
-`wget https://github.com/devinapples/GitTIDE/...`
+`wget https://raw.github.com/devinapples/GitTIDE/master/setupGITonTIDE.sh`
 
 Change the file to be executable:
 `chmod 777 setupGITonTIDE.sh`
