@@ -1,0 +1,21 @@
+Introduction
+============
+This following document details how to get Terminal IDE up and running on an Android device.
+YMMV!
+
+Download the setupGITonTIDE.sh file from TIDE:
+`wget https://github.com/devinapples/GitTIDE/...`
+
+Change the file to be executable:
+`chmod 777 setupGITonTIDE.sh`
+
+Run the file!
+`./setupGITonTIDE.sh`
+
+Lastly: open the key in TIDE to copy and paste the public key to GitHub OR open the file in the web browser (file:///sdcard/pub.key).
+
+Sources
+=======
+SSH and Git: http://tinyrobot.co.uk/blog/ssh-and-git-on-android-with-terminal-ide/
+
+
