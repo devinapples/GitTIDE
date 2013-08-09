@@ -3,8 +3,8 @@ Introduction
 This following document details how to get Terminal IDE up and running on an Android device.
 YMMV!
 
-Download the setupGITonTIDE.sh file from TIDE:
-`wget https://raw.github.com/devinapples/GitTIDE/master/setupGITonTIDE.sh`
+Copy the setupGITonTIDE.sh file for TIDE:
+`https://raw.github.com/devinapples/GitTIDE/master/setupGITonTIDE.sh`
 
 Change the file to be executable:
 `chmod 777 setupGITonTIDE.sh`
